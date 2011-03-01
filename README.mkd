@@ -1,0 +1,1 @@
+This repository will contain example circuits described in Verilog with some description of how they work and basic testbenches. The aim is to help those who are trying to learn the language.
